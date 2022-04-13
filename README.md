@@ -11,6 +11,10 @@
 $ yarn dev
 ```
 
+```bash
+$ yarn dev
+```
+
 # rust -> wasm
 
 - [查阅MDN](https://developer.mozilla.org/zh-CN/docs/WebAssembly/Rust_to_wasm), 安装必需的依赖
