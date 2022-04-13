@@ -35,7 +35,7 @@ async function inputHandler(index: number) {
     if (!file) return
     const now = Date.now()
     const md5s: string[] = []
-    const fileList = new Array<File>(100).fill(file)
+    const fileList = new Array<File>(30).fill(file)
     for (const f of fileList) {
         if (index === 0) {
             if (!bridge) {
