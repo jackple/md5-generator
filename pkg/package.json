@@ -1,0 +1,13 @@
+{
+  "name": "md5-generator",
+  "version": "0.1.0",
+  "files": [
+    "md5_generator_bg.wasm",
+    "md5_generator.js",
+    "md5_generator_bg.js",
+    "md5_generator.d.ts"
+  ],
+  "module": "md5_generator.js",
+  "types": "md5_generator.d.ts",
+  "sideEffects": false
+}
